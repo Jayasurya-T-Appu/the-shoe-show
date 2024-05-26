@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from "../../assets/logo.jpg"
+import logo from "../../assets/logo.png"
 import './Navbar.css'
 import { IoClose } from "react-icons/io5";
 import { Link } from 'react-scroll';
@@ -25,33 +25,33 @@ const Navbar = () => {
 
                     <ul class={`dropdown-content ${toggleSidebar ? "show" : "hide"}`}>
 
-                        <li className='side_bar_option'>
-                            <Link to="home" smooth={true} duration={500}>Home</Link>
+                        <li  className='side_bar_option'>
+                            <Link onClick={handleMenu} to="home" smooth={true} duration={500}>Home</Link>
                         </li>
                         <li className='side_bar_option'>
-                            <Link to="about" smooth={true} duration={500}>About</Link>
+                            <Link onClick={handleMenu} to="about" smooth={true} duration={500}>About</Link>
                         </li>
                         <li className='side_bar_option'>
-                            <Link to="product" smooth={true} duration={500}>Products</Link>
+                            <Link onClick={handleMenu} to="product" smooth={true} duration={500}>Products</Link>
                         </li>
                         <li className='side_bar_option'>
-                            <Link to="contact" smooth={true} duration={500}>Contact</Link>
+                            <Link onClick={handleMenu} to="contact" smooth={true} duration={500}>Contact</Link>
                         </li>
                     </ul>
                 </div>
 
                 <ul className='nav_options_container'>
                     <li className='nav_option'>
-                        <Link to="home" smooth={true} duration={500}>Home</Link>
+                        <Link onClick={handleMenu} to="home" smooth={true} duration={500}>Home</Link>
                     </li>
                     <li className='nav_option'>
-                        <Link to="about" smooth={true} duration={500}>About</Link>
+                        <Link onClick={handleMenu} to="about" smooth={true} duration={500}>About</Link>
                     </li>
                     <li className='nav_option'>
-                        <Link to="product" smooth={true} duration={500}>Products</Link>
+                        <Link onClick={handleMenu} to="product" smooth={true} duration={500}>Products</Link>
                     </li>
                     <li className='nav_option'>
-                        <Link to="contact" smooth={true} duration={500}>Contact</Link>
+                        <Link onClick={handleMenu} to="contact" smooth={true} duration={500}>Contact</Link>
                     </li>
 
 

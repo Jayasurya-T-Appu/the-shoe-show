@@ -1,6 +1,6 @@
 import { Element, Link } from "react-scroll"
 import "./Footer.css"
-import footer_logo from "../../assets/logo.jpg"
+import footer_logo from "../../assets/logo.png"
 const Footer = () => {
   return (
     <Element name="contact">
