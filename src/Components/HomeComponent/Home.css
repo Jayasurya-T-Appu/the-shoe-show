@@ -14,6 +14,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-left: 3rem;
 
 }
 .home_left_container h2{
@@ -35,7 +36,7 @@
    height: 100%;
    display: flex;
    align-items: center;
-   justify-content: end;
+   justify-content: center;
 }
 .shop_now_button{
     width: 15rem;
@@ -49,6 +50,10 @@
 .home_feature_texts{
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: start;
+   
 }
 .home_feature_texts p{
     margin-right: 5rem;
@@ -63,11 +68,14 @@
         height: auto;
         flex-direction: column;
         padding: 4rem 2rem 0rem 2rem;
+        
     }
     .home_left_container{
         justify-content: center;
         align-items: center;
         margin-bottom: 2rem;
+        padding-left: 0rem;
+        width: 100%;
     }
     .home_left_container h2{
         font-size: var(--size-medium);
@@ -75,6 +83,9 @@
     }
     .home_left_container p{
         text-align: center;
+    }
+    .home_feature_texts{
+        justify-content: center;
     }
     .home_feature_texts p{
        margin: 0rem 2rem;
