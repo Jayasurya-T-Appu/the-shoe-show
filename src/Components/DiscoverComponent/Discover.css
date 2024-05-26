@@ -28,3 +28,11 @@ padding: 6rem;
 .discover_button:hover{
     cursor: pointer;
 }
+
+@media (max-width: 1300px){
+    .discover_container{
+        padding: 4rem 2rem 4rem 2rem;
+    }
+ 
+    
+}

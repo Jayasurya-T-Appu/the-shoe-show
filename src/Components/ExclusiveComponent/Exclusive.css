@@ -3,7 +3,7 @@
 }
 .exclusive_title{
     text-align: center;
-    font-size: 4rem;
+    font-size: var(--size-large);
     font-family: "Nunito Sans", sans-serif;
     margin-bottom: 3rem;
 }
@@ -17,4 +17,16 @@
 }
 .products_container{
     margin-bottom: 4rem;
+}
+
+@media (max-width: 1300px){
+    .products_container{
+        padding: 4rem 2rem 0rem 2rem;
+    }
+    .exclusive_title{
+        font-size: var(--size-medium);
+        text-align: center;
+        width: 100%;
+    }
+    
 }
