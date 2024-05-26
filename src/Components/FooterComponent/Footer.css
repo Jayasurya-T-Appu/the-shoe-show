@@ -50,11 +50,15 @@
     }
     .link{
         margin: 1rem;
+        text-align: center;
     }
     .footer_service_container{
         flex-direction: row;
     }
     .footer_connect_container{
         flex-direction: row;
+    }
+    .footer_connect_container p{
+        margin: 5px;
     }
 }
