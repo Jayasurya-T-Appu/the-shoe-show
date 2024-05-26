@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+.home_container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 7rem 0rem 7rem;
+}
+.home_left_container{
+    width: 50%;
+    height: 100%;
+    font-family: "Nunito Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.home_left_container h2{
+    font-size: 5rem;
+    line-height: 1;
+    margin-bottom: 2rem;
+
+}
+.home_left_container p{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    color: #757274;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.home_right_container{
+   width: 50%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: end;
+}
+.shop_now_button{
+    width: 15rem;
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 1rem;
+    color: white;
+    background-color: black;
+    margin-bottom: 2rem;
+}
+.home_feature_texts{
+    display: flex;
+    align-items: center;
+}
+.home_feature_texts p{
+    margin-right: 5rem;
+    border-bottom: 2px solid #757274;;
+}
+.landing_image{
+    height: 90%;
+}

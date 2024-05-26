@@ -1,0 +1,16 @@
+.banner_image_container{
+    background-color: aqua;
+    width: 18rem;
+    height: 18rem;
+    margin-bottom: 1rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.banner_text{
+    color: #757274;
+    font-weight: 600;
+}

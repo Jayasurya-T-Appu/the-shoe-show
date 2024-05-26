@@ -1,0 +1,30 @@
+.discover_container{
+background-color: #F5E9DD;
+padding: 6rem;
+
+}
+
+.discover_title{
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Nunito Sans", sans-serif;
+    margin-bottom: 3rem;
+}
+
+
+.button_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.discover_button{
+    background-color: white;
+    border: none;
+    color: black;
+    width: 10rem;
+    height: 3rem;
+}
+.discover_button:hover{
+    cursor: pointer;
+}

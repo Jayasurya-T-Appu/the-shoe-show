@@ -1,0 +1,37 @@
+.navbar{
+    font-family: "DM Sans", sans-serif;
+    height: 4rem;
+    position: fixed;
+    width: 100% ;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+z-index: 101;
+    padding: 0rem 7rem 0rem 7rem;
+}
+.nav_logo_container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav_logo_img{
+    height: 100%;
+}
+
+.nav_options_container{
+    display: flex;
+}
+
+.nav_option{
+    list-style: none;
+    margin-left: 2rem;
+    font-size: 20px;
+    color: #757274;
+    font-weight: 600;
+    cursor: pointer;
+    
+
+}

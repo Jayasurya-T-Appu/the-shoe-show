@@ -1,0 +1,20 @@
+.products_container{
+    padding: 4rem 7rem 0rem 7rem;
+}
+.exclusive_title{
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Nunito Sans", sans-serif;
+    margin-bottom: 3rem;
+}
+
+.exclusive_image_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4rem;
+}
+.products_container{
+    margin-bottom: 4rem;
+}
