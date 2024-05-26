@@ -89,3 +89,9 @@
         width: 100%;
     }
 }
+@media (max-width: 400px){
+    .home_feature_texts p{
+        margin: 1rem;
+    }
+
+}
