@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Jayasurya-T-Appu/the-shoe-show/static/css/main.430f6a27.css",
-    "main.js": "/Jayasurya-T-Appu/the-shoe-show/static/js/main.f9549384.js",
-    "static/media/landing_image.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/landing_image.95a042a55dbdc8c52540.jpg",
-    "static/media/ex_03.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/ex_03.b71efc2586adc454cc9c.jpg",
-    "static/media/about_model.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/about_model.e24a664ee88367acb750.jpg",
-    "static/media/shoe_03.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/shoe_03.8a1b108b4c7f58e655b8.jpg",
-    "static/media/ex_01.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/ex_01.89ea8c71d88f4817e6c4.jpg",
-    "static/media/ex_02.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/ex_02.015bf59fba0b8291cd0b.jpg",
-    "static/media/shoe_02.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/shoe_02.5b2ce65ed0e1f85aa6e6.jpg",
-    "static/media/shoe_01.jpg": "/Jayasurya-T-Appu/the-shoe-show/static/media/shoe_01.dda69ecd7d7c781f262b.jpg",
-    "index.html": "/Jayasurya-T-Appu/the-shoe-show/index.html",
-    "main.430f6a27.css.map": "/Jayasurya-T-Appu/the-shoe-show/static/css/main.430f6a27.css.map",
-    "main.f9549384.js.map": "/Jayasurya-T-Appu/the-shoe-show/static/js/main.f9549384.js.map"
+    "main.css": "/the-shoe-show/static/css/main.430f6a27.css",
+    "main.js": "/the-shoe-show/static/js/main.6684b13e.js",
+    "static/media/landing_image.jpg": "/the-shoe-show/static/media/landing_image.95a042a55dbdc8c52540.jpg",
+    "static/media/ex_03.jpg": "/the-shoe-show/static/media/ex_03.b71efc2586adc454cc9c.jpg",
+    "static/media/about_model.jpg": "/the-shoe-show/static/media/about_model.e24a664ee88367acb750.jpg",
+    "static/media/shoe_03.jpg": "/the-shoe-show/static/media/shoe_03.8a1b108b4c7f58e655b8.jpg",
+    "static/media/ex_01.jpg": "/the-shoe-show/static/media/ex_01.89ea8c71d88f4817e6c4.jpg",
+    "static/media/ex_02.jpg": "/the-shoe-show/static/media/ex_02.015bf59fba0b8291cd0b.jpg",
+    "static/media/shoe_02.jpg": "/the-shoe-show/static/media/shoe_02.5b2ce65ed0e1f85aa6e6.jpg",
+    "static/media/shoe_01.jpg": "/the-shoe-show/static/media/shoe_01.dda69ecd7d7c781f262b.jpg",
+    "index.html": "/the-shoe-show/index.html",
+    "main.430f6a27.css.map": "/the-shoe-show/static/css/main.430f6a27.css.map",
+    "main.6684b13e.js.map": "/the-shoe-show/static/js/main.6684b13e.js.map"
   },
   "entrypoints": [
     "static/css/main.430f6a27.css",
-    "static/js/main.f9549384.js"
+    "static/js/main.6684b13e.js"
   ]
 }
